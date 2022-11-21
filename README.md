@@ -1,5 +1,10 @@
 # AprioriBeisbol
 
+Adnán Abdul Khalek 27.750.460
+Jesus Perez 27.637.523
+Jesus Fernandez
+Johnny L.
+
 npm install
 npm install pg
 npm install lodash
